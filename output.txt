@@ -1,0 +1,12 @@
+*******************************************
+ TICKET REPORT
+*******************************************
+
+There are 6 tickets in the database.
+
+Maximum Ticket price is $169.99
+Minimum Ticket price is $169.99
+Average Ticket price is $28.331666666666667
+
+Thank you for using our ticket system!
+
